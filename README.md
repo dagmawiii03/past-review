@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1 align="center" style="font-family: Serif; font-size: 3.5em;">viewPast Re</h1>
+<h1 align="center" style="font-family: Serif; font-size: 3.5em;">Past-work Review</h1>
 
 <!-- TABLE OF CONTENTS -->
 
